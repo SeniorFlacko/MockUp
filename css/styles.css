@@ -1,0 +1,25 @@
+/* Navbar */
+
+.navbar-default {
+    background: #e0dddd;
+}
+
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover{
+	color: #1951fd;
+    background-color: transparent;
+}
+
+.intro-block{
+	background: url(../images/Slider_img1.jpg);
+	padding:500px 15px 60px; /*top left botton right*/
+	color:#fff; /* blanco */
+}
+
+.quiseque-block{
+	background: #e0dddd; 
+	padding: 100px 30px 30px 30px;
+}
+
+.commodo-block{
+	background: #181f75;
+}
